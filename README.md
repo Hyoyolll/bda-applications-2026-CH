@@ -1,6 +1,4 @@
-# bda-applications-2026-CH
-
-# Bike Demand Forecasting Project
+# bda-applications-2026-CH: Bike Demand Forecasting Project
 
 This repository contains the implementation and analysis for the bike-sharing demand forecasting project. The study explores the effectiveness of LightGBM-based models using spatiotemporal features and meteorological data.
 
